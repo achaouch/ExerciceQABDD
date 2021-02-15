@@ -22,10 +22,10 @@ Once you ran your tests you can generate the various types of reports. This fram
 
 ##### Allure Report:
 You can generate a report using one of the following command under \allure-result:
-- `allure serve {path/allure-result}`
+allure serve {path/allure-result}`
 
 ##### HTML Report:
- HTML report under "\CucumberJava\target\HtmlReports\index.html"
+HTML report under "\CucumberJava\target\HtmlReports\index.html"
 
 ##### JSON Report:
 JSON report "\CucumberJava\target\JSONReports"`
