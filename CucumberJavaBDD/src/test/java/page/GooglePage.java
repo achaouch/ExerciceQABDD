@@ -1,7 +1,4 @@
-package pagefactory;
-
-import java.util.List;
-
+package page;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;

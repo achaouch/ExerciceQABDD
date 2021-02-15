@@ -9,8 +9,8 @@ import base.BasePage;
 import io.cucumber.java.After;
 import io.cucumber.java.de.Aber;
 import io.cucumber.java.en.*;
-import pagefactory.GooglePage;
-import pagefactory.GoogleSearchPage;
+import page.GooglePage;
+import page.GoogleSearchPage;
 import io.cucumber.java.Scenario;
 public class GoogleSearchSteps {
 

@@ -10,7 +10,7 @@ Feature: feature to test google search functionality
     Then user is navigated to search results of <Keyword>
 
     Examples: 
-      | Keyword  | 
-      |  Abdou   |
-      |  Cyrine  |
+      |  Keyword         | 
+      |  publicissapient |
+      |  seleniumQA      |
        
